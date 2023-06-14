@@ -1,0 +1,3 @@
+C:\Users\STUDENTS-STEM-1\Desktop\11A\Zadacha Firma\obj\Debug\Zadacha Firma.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-1\Desktop\11A\Zadacha Firma\obj\Debug\Zadacha Firma.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-STEM-1\Desktop\11A\Zadacha Firma\obj\Debug\Zadacha Firma.csproj.CoreCompileInputs.cache
